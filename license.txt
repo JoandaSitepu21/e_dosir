@@ -1,0 +1,35 @@
+Sistem Informasi Arsip Dosir Pegawai Dibuat dengan menggunakan 
+- framework codeigniter
+- Apache/2.4.53
+- PHP 7.4.29 
+- mysqlnd 7.4.29 
+Fitur Yang terdapat pada Sistem Informasi Arsip Dosir Pegawai Ini Berisikan:
+1. Admin
+  - Tambah Data Admin (Upload File Foto Ekstensi zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Admin (Upload File Foto Ekstensi zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data Admin
+2. Pegawai
+  - Tambah Data Pegawai (Upload File Foto Ekstensi zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Pegawai (Upload File Foto Ekstensi zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data Pegawai
+3. Map I
+  - Tambah Data Map I (Upload File Ekstensi pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Map I (pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data MAP I
+4. Map II
+  - Tambah Data Map II (Upload File Ekstensi pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Map II (pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data MAP II 
+5. Map III
+  - Tambah Data Map III(Upload File Ekstensi pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Map III(pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data MAP III
+6. Map IV
+  - Tambah Data Map IV (Upload File Ekstensi pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Map IV (pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data MAP IV 
+6. Map V
+  - Tambah Data Map V (Upload File Ekstensi pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Ubah Data Map V (pdf|doc|docx|ppt|pptx|zip|gif|jpg|png|jpeg|bmp)
+  - Hapus Data MAP V
+
